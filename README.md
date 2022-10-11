@@ -1,3 +1,3 @@
 # Sticky-Navigation
 Project Sticky Navigation 🚀
-https://navigation-sticky.netlify.app
+- <a href="https://navigation-sticky.netlify.app" target="_blank" >Project Link</a>
